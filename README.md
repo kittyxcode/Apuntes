@@ -13,8 +13,11 @@ Son archivos para cargar en https://excalidraw.com/ y son mis apuntes de tecnolo
 ## Preview de archivos
 
 ### FullStackRoapMap
+![Texto alternativo](https://github.com/kittyxcode/Apuntes/blob/main/Imagenes/FullStackRoadMap2024.png)
+
 
 ### SpringBoot
+![Texto alternativo](https://github.com/kittyxcode/Apuntes/blob/main/Imagenes/SpringBoot.png)
 
 
 
